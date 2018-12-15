@@ -1,1 +1,4 @@
 database.sqlite
+*.model
+*.pdf
+*.html

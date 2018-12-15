@@ -1,0 +1,6 @@
+tutorial_ipynbs/*
+*.sqlite
+*.pdf
+*.html
+*.pkl
+*.model
